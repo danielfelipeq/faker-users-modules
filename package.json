@@ -1,0 +1,24 @@
+{
+  "name": "faker-users-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielfelipeq/faker-users-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielfelipeq/faker-users-modules/issues"
+  },
+  "homepage": "https://github.com/danielfelipeq/faker-users-modules#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
